@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../security/js"
+	},
+	{
+		"path": "../security/css"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5503,
+    "liveServer.settings.multiRootWorkspaceName": "Isa Security"
+  }
+}
